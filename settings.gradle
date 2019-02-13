@@ -1,0 +1,1 @@
+include ':app', ':com.placetopay.redirection', ':javax-xml-soap-1.6.0'
